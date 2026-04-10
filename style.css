@@ -1,0 +1,15 @@
+.container{
+    background-color:rgb(235, 83, 7);
+    width: 25%;
+    border: 3px solid;
+    text-align: center;
+    margin: auto;
+    border-radius: 20px;
+    border-color: white;
+    padding: 20px;
+    
+}
+
+h1{
+    color: white;
+}
